@@ -1,0 +1,7 @@
+{
+    "connectionstring": "mongodb://localhost:27017/vacc_dev?authSource=admin&keepAlive=true&poolSize=100&autoReconnect=true&socketTimeoutMS=300&connectTimeoutMS=300",
+    "privateKey": "/config/private.key",
+    "secretKey": "Vacc-Adapter-Dev",
+    "logLevel": "debug",
+    "token": "eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiYWRtaW4ifQ.QjTV10chMWMxQon6M2zEoeXAh9I9YiaMuEFDcEoC_DZFvdNWIwDwE5RySnr6j4PkFTY1idyuEFyJTL2SXwO-hw"
+}
