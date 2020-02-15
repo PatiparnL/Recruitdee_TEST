@@ -26,6 +26,8 @@ pm2 start app.json --env=production
 
 4. Run local
 
+```bash
 npm run dev
 npm run iot
 npm run prod
+```
